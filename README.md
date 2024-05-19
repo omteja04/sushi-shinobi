@@ -92,6 +92,8 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
+
+npm install aos
 ```
 
 **Running the Project**
