@@ -83,7 +83,7 @@ git clone https://github.com/omteja04/sushi-shinobi.git
 **Navigate to the project directory:**
 
 ```bash
-cd cd sushi-shinobi
+cd sushi-shinobi
 ```
 
 **Installation**
