@@ -4,9 +4,6 @@ import star from "../assets/star.svg";
 import sushi12 from "../assets/sushi-12.png";
 import sushi11 from "../assets/sushi-11.png";
 import sushi10 from "../assets/sushi-10.png";
-import sushi8 from "../assets/sushi-8.png";
-import sushi7 from "../assets/sushi-7.png";
-import sushi6 from "../assets/sushi-6.png";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
